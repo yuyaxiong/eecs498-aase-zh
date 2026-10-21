@@ -1,0 +1,181 @@
+{
+  "code": "EECS 498-016",
+  "term": "Fall 2026",
+  "credits": 4,
+  "timezone": "America/Detroit",
+  "checkedAt": "2026-10-21",
+  "source": "https://eecs498-aase.github.io/",
+  "weeks": [
+    [
+      "8/31–9/4",
+      "Lab 00：环境配置，启动模型并连接 Aider；首次讲座前完成",
+      "L01 课程导论与 AI 编程概况",
+      "L02 大语言模型生成代码的原理",
+      "周二发放个人仓库"
+    ],
+    [
+      "9/7–9/11",
+      "劳动节（9/7），无实验",
+      "L03 上下文、模型、提示词",
+      "L04 规格驱动开发",
+      "9/11（周五）：环境验收与引导练习截止"
+    ],
+    [
+      "9/14–9/18",
+      "Lab 01：Aider 内部机制、黑客松说明与项目公布",
+      "L05 现代智能体命令行工具",
+      "L06 从结对编程到智能体编排",
+      "开始结对编程工具项目"
+    ],
+    [
+      "9/21–9/25",
+      "Lab 02：有助教支持的项目开发",
+      "L07 LLM API 与客户端内部机制",
+      "L08 工具使用、函数调用与智能体循环",
+      "9/24（周四）晚：黑客松1"
+    ],
+    [
+      "9/28–10/2",
+      "Lab 03：工具、函数调用与循环",
+      "L09 停止条件与审批层",
+      "L10 本地模型服务概览",
+      "本周末形成可运行的智能体"
+    ],
+    [
+      "10/5–10/9",
+      "Lab 04：无人值守运行与代价测量",
+      "L11 编辑格式与解析器评测",
+      "L12 为运行框架设计提示词",
+      "10/6（周二）：Apply项目截止；Analyze规格发布"
+    ],
+    [
+      "10/12–10/16",
+      "Lab 05：评测框架与 Agent v0 加固",
+      "L13 评测：任务集、成功率、成本与延迟",
+      "L14 安全约束与失败模式",
+      "Analyze本周末截止；黑客松2日期原文待公布"
+    ],
+    [
+      "10/19–10/23",
+      "秋季学习假（周一、周二），无实验",
+      "学习假，无课",
+      "L15 LLM Wiki、OKF 与 RAG 替代方案",
+      "开始构建知识库"
+    ],
+    [
+      "10/26–10/30",
+      "Lab 06：知识库 ingest / query / lint",
+      "L16 将大象—金鱼模型实现为技能",
+      "L17 设计与软件开发",
+      ""
+    ],
+    [
+      "11/2–11/6",
+      "Lab 07：为现有编程智能体构建 EGM 技能",
+      "L18 权限策略及其失效方式",
+      "L19 仓库提示注入攻击",
+      ""
+    ],
+    [
+      "11/9–11/13",
+      "Lab 08：加固第5周的审批层",
+      "L20 上下文管理与压缩",
+      "L21 工具接口与小模型的工程要求",
+      ""
+    ],
+    [
+      "11/16–11/20",
+      "Lab 09：上下文窗口满时的处理",
+      "L22 会话与记忆",
+      "L23 开发过程证据记录",
+      ""
+    ],
+    [
+      "11/23–11/27",
+      "Lab 10：会话、记录与基线验收",
+      "L24 测试智能体与回归验收",
+      "感恩节，无课",
+      "11/25–11/27：感恩节假期"
+    ],
+    [
+      "11/30–12/4",
+      "Lab 11：智能体测试与回归套件",
+      "L25 Web服务与交互渠道",
+      "L26 接入 Wiki 记忆与 EGM 方法",
+      ""
+    ],
+    [
+      "12/7–12/11",
+      "Lab 12：集成实验",
+      "L27 部署与演示准备",
+      "L28 项目展示与课程总结",
+      "黑客松3日期原文待公布；12/11结课"
+    ]
+  ],
+  "faqCount": 25,
+  "episodes": [
+    {
+      "number": 1,
+      "lecture": "L01",
+      "type": "brief",
+      "title": "课程导论与 AI 编程概况",
+      "duration": "1:31",
+      "audioUrl": "https://www.mivideo.it.umich.edu/media/t/1_fzbfsvw9/417405562",
+      "transcriptUrl": "https://eecs498-aase.github.io/podcast/transcripts/s1e1.txt"
+    },
+    {
+      "number": 2,
+      "lecture": "L02",
+      "type": "brief",
+      "title": "大语言模型如何生成代码",
+      "duration": "1:39",
+      "audioUrl": "https://www.mivideo.it.umich.edu/media/t/1_dcs6iy8q/417405562",
+      "transcriptUrl": "https://eecs498-aase.github.io/podcast/transcripts/s1e2.txt"
+    },
+    {
+      "number": 3,
+      "lecture": "L03",
+      "type": "brief",
+      "title": "上下文、模型与提示词",
+      "duration": "1:30",
+      "audioUrl": "https://www.mivideo.it.umich.edu/media/t/1_3gu2d6ny/417405562",
+      "transcriptUrl": "https://eecs498-aase.github.io/podcast/transcripts/s1e3.txt"
+    },
+    {
+      "number": 4,
+      "lecture": "L01",
+      "type": "deep",
+      "title": "课程导论与 AI 编程概况",
+      "duration": "19:47",
+      "audioUrl": "https://www.mivideo.it.umich.edu/media/t/1_c4v8h3b6/417405562",
+      "transcriptUrl": "https://eecs498-aase.github.io/podcast/transcripts/s1e4.txt"
+    },
+    {
+      "number": 5,
+      "lecture": "L01",
+      "type": "deep",
+      "title": "课程导论与 AI 编程概况（完整版）",
+      "duration": "49:10",
+      "audioUrl": "https://www.mivideo.it.umich.edu/media/t/1_t0ocv3yl/417405562",
+      "transcriptUrl": "https://eecs498-aase.github.io/podcast/transcripts/s1e5.txt"
+    },
+    {
+      "number": 6,
+      "lecture": "L04",
+      "type": "brief",
+      "title": "规格驱动编程",
+      "duration": "1:39",
+      "audioUrl": "https://www.mivideo.it.umich.edu/media/t/1_bhtxs9i6/417405562",
+      "transcriptUrl": "https://eecs498-aase.github.io/podcast/transcripts/s1e6.txt"
+    },
+    {
+      "number": 7,
+      "lecture": "L05",
+      "type": "brief",
+      "title": "现代智能体命令行工具",
+      "duration": "1:29",
+      "audioUrl": "https://www.mivideo.it.umich.edu/media/t/1_bpaomshh/417405562",
+      "transcriptUrl": "https://eecs498-aase.github.io/podcast/transcripts/s1e7.txt"
+    }
+  ]
+}
